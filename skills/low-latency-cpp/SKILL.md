@@ -1,6 +1,6 @@
 ---
 name: low-latency-cpp
-description: Use when designing, writing, reviewing or tuning latency-sensitive C++ (trading, telecom, market data, real-time control): threading, atomics, queues, memory, CPU/OS tuning, networking, and tail-latency measurement.
+description: "Use when designing, writing, reviewing or tuning latency-sensitive C++ (trading, telecom, market data, real-time control): threading, atomics, queues, memory, CPU/OS tuning, networking, and tail-latency measurement."
 ---
 
 # Low-latency C++ systems engineering
